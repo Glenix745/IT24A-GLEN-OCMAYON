@@ -21,7 +21,7 @@ class leafLetMap{
                     this.addMaker(marker.latitude, marker.longitude, marker.meassage);
                 });
            })
-           .catch(error => console.error)("Error loading servers:", error);
+           .catch(error => console.error("Error loading servers:", error));
         }
 
     }

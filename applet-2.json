@@ -1,18 +1,18 @@
 [{
     "latitude": 8.359639,
     "longitude" : 124.869206,
-    "meassage" : "CCS Faculty Office"
+    "message" : "CCS Faculty Office"
 },
 {
     "latitude":8.359639,
     "longitude" :124.869179,
-    "meassage" : "CCS Laboratory 1"
+    "message" : "CCS Laboratory 1"
 },
 {
 
     "latitude":8.359554,
     "longitude" : 124.869153,
-    "meassage" :"CCS Laboratory 2"
+    "message" :"CCS Laboratory 2"
 
 }    
 ]
